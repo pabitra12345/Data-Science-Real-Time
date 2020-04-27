@@ -1,4 +1,4 @@
-# Data-Science-Real-Time
+# Music Generation 
 
 Using Deep Learning to leverage the musical notes to predict/generate new musical notes.
 
